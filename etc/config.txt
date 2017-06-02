@@ -1,0 +1,4 @@
+[vcenterConfig]
+url = https://samplevcenter.domain.local/rest
+user = administrator@vsphere.local
+password = VMware123!
