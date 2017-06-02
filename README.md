@@ -1,4 +1,4 @@
-# Amazon Alexa vSphere Skill using
+# Amazon Alexa vSphere Skill Using Flask-ASK and VMware REST API's 
 TheHumbleLab (https://www.thehumblelab.com) Blog Walkthrough of building an Alexa Skill to interface with VMware REST API's
 
 This is the GitHub Repository for my Amazon Echo, Python Flask/Flask-ASK, and VMware API's blogpost and subsequent updates. 
