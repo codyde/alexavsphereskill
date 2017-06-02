@@ -1,0 +1,7 @@
+NoIntent abort
+VMCountIntent report total vms
+VMCountIntent count vms 
+HealthIntent report health
+HealthIntent report appliance health
+HostClustersIntent list hosts in clusters
+HostClustersIntent list hosts
