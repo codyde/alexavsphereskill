@@ -1,0 +1,16 @@
+{
+"intents": [
+    {
+      "intent": "NoIntent"
+    },
+    {
+      "intent": "VMCountIntent"
+    },
+    {
+      "intent": "HealthIntent"
+    },
+  	{
+      "intent": "HostClustersIntent"
+    }
+  ]
+}
